@@ -17,7 +17,14 @@
 **Web & Backend:** React, Next.js, FastAPI, Streamlit  
 **Tools & Platforms:** Git, GitHub, VS Code, Jupyter Notebook  
 
-[![Pokemon Stats](https://animated-profile-stats.vercel.app/api/card?username=anaszia60&type=fire)](https://github.com/anaszia60)
+![Snake Game Demo](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDQxeGx1dnpkOHRtOHc3cnMwODNpOGJ3cGQ2aGJvMHZtOXRjNW85eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/astlErJSYq1cA/giphy.gif)
+
+
+
+
+![Snake Game Demo](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDQxeGx1dnpkOHRtOHc3cnMwODNpOGJ3cGQ2aGJvMHZtOXRjNW85eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/astlErJSYq1cA/giphy.gif)
+
+
 
 
 
