@@ -17,8 +17,9 @@
 **Web & Backend:** React, Next.js, FastAPI, Streamlit  
 **Tools & Platforms:** Git, GitHub, VS Code, Jupyter Notebook  
 
-### 📈 GitHub Stats
-![Anas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anaszia60&show_icons=true&theme=radical)  
+![Profile Card](https://animated-profile-stats.vercel.app/api/card?username=anaszia60&type=fire)
+
+
 
 ### 💡 Quote I Live By
 *"I turn coffee into code, and chaos into AI."*
