@@ -22,11 +22,6 @@
 
 
 
-![Snake Game Demo](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDQxeGx1dnpkOHRtOHc3cnMwODNpOGJ3cGQ2aGJvMHZtOXRjNW85eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/astlErJSYq1cA/giphy.gif)
-
-
-
-
 
 
 ### 💡 Quote I Live By
