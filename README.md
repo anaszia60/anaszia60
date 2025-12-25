@@ -17,7 +17,8 @@
 **Web & Backend:** React, Next.js, FastAPI, Streamlit  
 **Tools & Platforms:** Git, GitHub, VS Code, Jupyter Notebook  
 
-![Profile Card](https://animated-profile-stats.vercel.app/api/card?username=anaszia60&type=fire)
+[![Pokemon Stats](https://animated-profile-stats.vercel.app/api/card?username=anaszia60&type=fire)](https://github.com/anaszia60)
+
 
 
 
