@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hi there 👋, I’m Anas Zia
 
-<!--
-**anaszia60/anaszia60** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me
+- 🔭 I’m currently working on **AI, Machine Learning, Agentic AI & RAG projects**  
+- 🌱 I’m learning **FastAPI, OpenCV, Drone Swarm Tech, and advanced ML techniques**  
+- 👯 I’m looking to collaborate on **high-impact AI & cybersecurity projects**  
+- 🤔 I’m looking for help with **deep reinforcement learning & large-scale ML deployments**  
+- 💬 Ask me about **Python, C++, ML, AI, RAG, Streamlit, and cybersecurity**  
+- 📫 How to reach me:  
+  - Email: [anaszia02@gmail.com](mailto:anaszia02@gmail.com)  
+  - LinkedIn: [https://www.linkedin.com/in/anas-zia-a31b021a7/](https://www.linkedin.com/in/anas-zia-a31b021a7/)    
+- ⚡ Fun fact: I can turn **AI ideas into real-world projects in days**, and I love exploring **Tech**  
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack
+**Languages:** Python, C++, JavaScript, SQL  
+**ML & AI:** Scikit-learn, OpenCV, LangChain, Agentic AI, RAG  
+**Web & Backend:** React, Next.js, FastAPI, Streamlit  
+**Tools & Platforms:** Git, GitHub, VS Code, Jupyter Notebook  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 GitHub Stats
+![Anas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anaszia60&show_icons=true&theme=radical)  
+
+### 💡 Quote I Live By
+*"I turn coffee into code, and chaos into AI."*
